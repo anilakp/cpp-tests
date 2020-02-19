@@ -1,0 +1,2 @@
+- [ ] przeczytaj o DFS
+- [ ] przeczytac przyklady zadan z grafami
